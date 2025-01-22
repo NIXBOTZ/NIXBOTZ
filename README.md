@@ -13,11 +13,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+My+Name+is+Nishant+;You+can+see+the+bots+made+by+me+by+going+to+Telegram;Thanks+For+Visiting+Github+Profile+!!;)
 </p>
 
-
-<hr/>
-<br>
-I'M Aᴠᴀɪʟᴀʙʟᴇ Oɴ Tᴇʟᴇɢʀᴀᴍ [NᎥຮhanτ](https://telegram.me/IM_NISHANTT)**_
-
 # Tᴇʟᴇɢʀᴀᴍ
 <p align="left">
 <a href="https://telegram.me/NIXBOTZ"><img alt="Telegram" src="https://img.shields.io/badge/NIXBOTZ-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
