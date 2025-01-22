@@ -10,10 +10,10 @@
 
 </h1>
 
-<img src="https://envs.sh/gCx.jpg">
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+My+Name+is+Nishant+;You+can+see+the+bots+made+by+me+by+going+to+Telegram;Thanks+For+Visiting+Github+Profile+!!;)
 </p>
+
+<img src="https://photos.app.goo.gl/scLzCikUhz2THsT17">
 
 # Tᴇʟᴇɢʀᴀᴍ
 <p align="left">
