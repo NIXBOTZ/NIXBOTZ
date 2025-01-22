@@ -1,4 +1,4 @@
- # Welcome To NI's GitHub Profile...
+# ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ɴɪ"s ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ !!
 <p align="center">
   <a href="https://github.com/NIXBOTZ/readme-typing-svg">
 
