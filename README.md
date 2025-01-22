@@ -12,6 +12,13 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+My+Name+is+Nishant+;You+can+see+the+bots+made+by+me+by+going+to+Telegram;Thanks+For+Visiting+Github+Profile+!!;)
 </p>
 
+## GitHub 
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=NIXBOTZ&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/NIXBOTZ)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIXBOTZ&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NIXBOTZ&theme=chartreuse-dark" alt="mystreak"/>
+<a href="https://github.com/NIXBOTZ"><img width=550 src="https://github-profile-trophy.vercel.app/?username=NIXBOTZ&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+
 <img src="https://envs.sh/gRE.png">
 
 # Tᴇʟᴇɢʀᴀᴍ
