@@ -27,7 +27,7 @@
 </p>
 
 <p align="left">
-<a href="https://telegram.me/NIXBOTZ"><img alt="Instagram" src="https://img.shields.io/badge/𝙽𝙸𝚇𝙱𝙾𝚃𝚉™-2CA5E0?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://telegram.me/NIXBOTZ"><img alt="Instagram" src="https://img.shields.io/badge/𝙽𝙸𝚇𝙱𝙾𝚃𝚉™-23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/_raaj__aryan)
