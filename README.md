@@ -27,9 +27,8 @@
 </p>
 
 <p align="left">
-[![Instagram]<a href="https://telegram.me/NIXBOTZ"><img alt="Instagram" src="https://img.shields.io/badge/𝙽𝙸𝚇𝙱𝙾𝚃𝚉™-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</p>
-[![YouTube]<a href="https://telegram.me/NIXBOTZ"><img alt="YouTube" src="https://img.shields.io/badge/𝙽𝙸𝚇𝙱𝙾𝚃𝚉™-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+<a href="https://telegram.me/NIXBOTZ"><img alt="Instagram" src="https://img.shields.io/badge/𝙽𝙸𝚇𝙱𝙾𝚃𝚉™-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</p><a href="https://telegram.me/NIXBOTZ"><img alt="YouTube" src="https://img.shields.io/badge/𝙽𝙸𝚇𝙱𝙾𝚃𝚉™-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
 [![Instagram](https://img.shields.io/badge/YouTube-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/_raaj__aryan)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@code-monster) 
