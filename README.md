@@ -1,5 +1,6 @@
 # ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ɴɪ's ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ !!
 <p align="center">
+<img src="https://envs.sh/7Fa.jpeg">
 
 <img src="https://readme-typing-svg.demolab.com/?lines=NISHANT &font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
   <a href="https://github.com/NIXBOTZ/readme-typing-svg">
