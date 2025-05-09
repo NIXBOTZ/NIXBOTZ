@@ -2,14 +2,6 @@
 <p align="center">
 <img src="https://envs.sh/7Fa.jpeg">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=NISHANT &font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
-  <a href="https://github.com/NIXBOTZ/readme-typing-svg">
-</a>
-</p>
-<p align="Right"> <img 
-<h1 align="center">
-</h1>
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FC9733&lines=𝚆𝚑𝚊𝚝'𝚜+𝚞𝚙+!+𝙼𝚢+𝚗𝚊𝚖𝚎+𝚒𝚜+𝙽𝚒𝚜𝚑𝚊𝚗𝚝;You+can+see+the+bots+made+by+me+by+going+to+Telegram;Thanks+For+Visiting+Github+Profile+!!;)
 </p>
 
