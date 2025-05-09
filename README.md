@@ -13,7 +13,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NIXBOTZ&theme=chartreuse-dark" alt="mystreak"/>
 <a href="https://github.com/NIXBOTZ"><img width=550 src="https://github-profile-trophy.vercel.app/?username=NIXBOTZ&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-<img src="https://envs.sh/gRE.png">
 
 # ꜰᴏʟʟᴏᴡ ᴜꜱ ᴏɴ
 <p align="left">
