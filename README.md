@@ -1,4 +1,4 @@
-# ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ɴɪ"s ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ !!
+# ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ɴɪ's ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ !!
 <p align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?lines=NISHANT &font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
