@@ -1,4 +1,3 @@
-# ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ɴɪ's ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ !!
 <p align="center">
 <img src="https://envs.sh/7Fa.jpeg">
 </p>
