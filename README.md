@@ -12,14 +12,13 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NIXBOTZ&theme=chartreuse-dark" alt="mystreak"/>
 <a href="https://github.com/NIXBOTZ"><img width=550 src="https://github-profile-trophy.vercel.app/?username=NIXBOTZ&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
+![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=for-the-badge)
 
 # ꜰᴏʟʟᴏᴡ ᴜꜱ ᴏɴ
 <p align="left">
 <a href="https://telegram.me/NIXBOTZ"><img alt="Telegram" src="https://img.shields.io/badge/𝙽𝙸𝚇𝙱𝙾𝚃𝚉™-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://telegram.me/NIXBOTZ"><img alt="Instagram" src="https://img.shields.io/badge/𝙽𝙸𝚇𝙱𝙾𝚃𝚉™-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://youtube.com/NIXBOTZ"><img alt="YouTube" src="https://img.shields.io/badge/𝙽𝙸𝚇𝙱𝙾𝚃𝚉™-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a></p>
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
