@@ -24,14 +24,10 @@
 # Tᴇʟᴇɢʀᴀᴍ
 <p align="left">
 <a href="https://telegram.me/NIXBOTZ"><img alt="Telegram" src="https://img.shields.io/badge/𝙽𝙸𝚇𝙱𝙾𝚃𝚉™-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
-
-<p align="left">
 <a href="https://telegram.me/NIXBOTZ"><img alt="Instagram" src="https://img.shields.io/badge/𝙽𝙸𝚇𝙱𝙾𝚃𝚉™-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://telegram.me/NIXBOTZ"><img alt="YouTube" src="https://img.shields.io/badge/𝙽𝙸𝚇𝙱𝙾𝚃𝚉™-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a></p>
 
-[![Instagram](https://img.shields.io/badge/YouTube-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/_raaj__aryan)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@code-monster) 
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
