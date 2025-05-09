@@ -12,7 +12,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NIXBOTZ&theme=chartreuse-dark" alt="mystreak"/>
 <a href="https://github.com/NIXBOTZ"><img width=550 src="https://github-profile-trophy.vercel.app/?username=NIXBOTZ&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=Profile+views&message.me/NI0786/count.svg&color=007ec6&style=for-the-badge)
 
 # ꜰᴏʟʟᴏᴡ ᴜꜱ ᴏɴ
 <p align="left">
@@ -23,3 +23,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
+<img src="https://profile-counter.glitch.me/NI0786/count.svg" />
