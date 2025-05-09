@@ -25,6 +25,7 @@
 <p align="left">
 <a href="https://telegram.me/NIXBOTZ"><img alt="Telegram" src="https://img.shields.io/badge/𝙽𝙸𝚇𝙱𝙾𝚃𝚉™-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/_raaj__aryan)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@code-monster) 
 
